@@ -107,7 +107,7 @@ div#header-menu nav ul li:hover{
 div#header-menu nav ul li.menu-list a{
   color: #333;
   text-decoration: none;
-  display: inline-block;
+  display: block;
 }
 
 div#header-menu nav ul li.menu-list a#card-image{
